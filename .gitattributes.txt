@@ -1,0 +1,4 @@
+* text=auto
+
+* .jpg binay
+* .png binay
